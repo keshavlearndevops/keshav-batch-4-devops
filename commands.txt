@@ -4,4 +4,6 @@ git status
 git commit -m
 git log
 git remote -v
-gir clone
+git clone
+git push 
+git fetch
